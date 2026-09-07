@@ -8,7 +8,7 @@
 
 <p align="center">
   ✧･ﾟ: *✧･ﾟ:* 
-  <img src="downloads.gif" width="500" alt="Cute animated GIF">
+  <img src="download.gif" width="500" alt="Cute animated GIF">
   *:･ﾟ✧*:･ﾟ✧
 </p>
 
