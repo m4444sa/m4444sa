@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="cute.gif" width="500" alt="Cute animated GIF">
+  <img src="download.gif" width="500" alt="Cute animated GIF">
 </p>
