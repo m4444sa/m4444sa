@@ -6,6 +6,7 @@
 <p align="center">
   Electrical Engineering student at the University of Belgrade<br>
   Interested in machine learning, signal processing, and biomedical AI
+  Features my school and personal projects :)
 </p>
 
 <p align="center">
